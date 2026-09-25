@@ -1,3 +1,5 @@
 ---
-title: Welcome to my blog!
+title: Welcome to my blog! It's a blast!
 ---
+
+Jokes for real!
